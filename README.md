@@ -13,45 +13,66 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Biellima2811.Biellima2811&"  />
 </div>
 
 ###
 
-<h1 align="center">Hello World!<br>Me chamo Gabriel Levi.</h1>
+<h1 align="center">Hello World! ☕<br>Me chamo Gabriel Levi.</h1>
+<h3 align="center">Desenvolvedor Back-end Java | Arquiteto de Soluções | Especialista em Bancos de Dados</h3>
 
 ###
 
-<h3 align="left">👨‍💻 Sobre mim<br>Sou desenvolvedor com experiência em Python, focado na automação de processos diários e na criação de soluções personalizadas. Um dos meus principais projetos foi o desenvolvimento de um software para manutenção de bancos de dados Firebird, Automação Cloud backup Manager para Nuvem (SKYONE / FORTES), e criação de setup (ambiente compartilhados em cloud), suprindo a carência de ferramentas eficientes nessa área.<br><br>Atualmente, estou expandindo minhas habilidades com uma nova iniciativa voltada ao desenvolvimento de sistemas robustos e escaláveis em Python, utilizando boas práticas de arquitetura e organização de código.<br><br>Tenho conhecimento sólido em bancos de dados relacionais, atuando desde a modelagem inicial até a manutenção e correção de inconsistências, especialmente com Firebird, MSSQL e SQLite.<br><br>🧰 Tecnologias e Ferramentas que utilizo:<br>Linguagens: Python, SQL<br><br>Banco de Dados: Firebird, MSSQL, SQLite, PostsgreSQL<br><br>Frameworks e Bibliotecas: Tkinter, Django<br><br>Versionamento: Git, GitHub<br><br>Outros: Gbak, Gstat, automação de backups e rotinas de manutenção, etc<br><br>📌 Exemplos de projetos:<br>🔧 Sistema de Manutenção Firebird – Software completo para verificação, correção, backup e restore de bancos Firebird, Cloud Backup Manager - Software voltado para automações de processo de backup e integrações com outros sistemas. <br><br>📊 Comparador de Bancos – Aplicação com interface gráfica para comparação de estruturas e dados entre bancos Firebird.<br><br>
+<h3 align="left">👨‍💻 Sobre mim</h3>
+<p align="left">
+Sou um profissional de tecnologia focado em resolução de problemas complexos, especializado no ecossistema <b>Java</b> e em arquitetura de <b>Bancos de Dados</b>. Minha especialidade é transformar gargalos operacionais em plataformas corporativas robustas, escaláveis e automatizadas.<br><br>
+
+Atuo fortemente no desenvolvimento <b>End-to-End</b>, desde a modelagem de dados relacionais e criação de pipelines de ETL (Python/Pandas), até a construção de Back-ends estruturados com controle de sessões, transações ACID, Design Patterns e arquitetura segura (LGPD/Criptografia).<br><br>
+
+<b>🧰 Minha Stack e Ferramentas:</b><br>
+🔹 <b>Back-end & Linguagens:</b> Java (11 ao 21), Python, SQL<br>
+🔹 <b>Frameworks & Tecnologias:</b> Spring Boot, JPA, Hibernate, REST APIs, JavaFX, Flask<br>
+🔹 <b>Bancos de Dados:</b> PostgreSQL, MS SQL Server, Firebird, MySQL, MongoDB<br>
+🔹 <b>Arquitetura & Boas Práticas:</b> MVC, Clean Code, Engenharia de Dados (ETL), Controle de Logs/Auditoria, Versionamento de Banco de Dados<br>
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🚀 Projetos de Destaque</h3>
+<p align="left">
+⚛️ <b><a href="https://github.com/Biellima2811">PROTON - Cloud Management & ERP</a></b><br>
+Sistema desenvolvido do zero para gerenciar a infraestrutura em nuvem de clientes corporativos. Construído com <b>Java 21 e PostgreSQL</b>, implementa controle de sessões, transações ACID com <i>setAutoCommit(false)</i>, segurança nível banco (jBCrypt) e lógica de auto-incremento inteligente para alocação de portas Webservices. Migração de dados legados feita com pipelines de ETL em Python.<br><br>
+
+🤖 <b><a href="https://github.com/Biellima2811/CIGS">CIGS - Plataforma de Automação de Suporte</a></b><br>
+Solução centralizada para automação da gestão de servidores e monitoramento crítico. Implementa orquestração de scripts via <b>API Flask (Python)</b> e integrações de back-end em Java, focando na observabilidade operacional e na eliminação de rotinas de suporte manuais (N1/N2).
+</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e Tecnologias</h3>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
