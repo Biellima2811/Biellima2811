@@ -39,14 +39,13 @@ Atuo fortemente no desenvolvimento <b>End-to-End</b>, desde a modelagem de dados
 ###
 
 <h3 align="left">🚀 Projetos de Destaque</h3>
-<p align="left">
-⚛️ <b><a href="https://github.com/Biellima2811">PROTON - Cloud Management & ERP</a></b><br>
-Sistema desenvolvido do zero para gerenciar a infraestrutura em nuvem de clientes corporativos. Construído com <b>Java 21 e PostgreSQL</b>, implementa controle de sessões, transações ACID com <i>setAutoCommit(false)</i>, segurança nível banco (jBCrypt) e lógica de auto-incremento inteligente para alocação de portas Webservices. Migração de dados legados feita com pipelines de ETL em Python.<br><br>
-
 🤖 <b><a href="https://github.com/Biellima2811/CIGS">CIGS - Plataforma de Automação de Suporte</a></b><br>
 Solução centralizada para automação da gestão de servidores e monitoramento crítico. Implementa orquestração de scripts via <b>API Flask (Python)</b> e integrações de back-end em Java, focando na observabilidade operacional e na eliminação de rotinas de suporte manuais (N1/N2).
 </p>
-
+<p align="left">
+⚛️ <b><a href="https://github.com/Biellima2811">PROTON - Cloud Management & ERP</a></b><br>
+Sistema desenvolvido do zero para gerenciar a infraestrutura em nuvem de clientes corporativos. Construído com <b>Java 21 e PostgreSQL</b>, implementa controle de sessões, transações ACID com <i>setAutoCommit(false)</i>, segurança nível banco (jBCrypt) e lógica de auto-incremento inteligente para alocação de portas Webservices. Migração de dados legados feita com pipelines de ETL em Python.<br><br>
+  
 ###
 
 <h3 align="left">🛠 Linguagens e Tecnologias</h3>
