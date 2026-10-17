@@ -19,13 +19,13 @@
 ###
 
 <h1 align="center">Hello World! ☕<br>Me chamo Gabriel Levi.</h1>
-<h3 align="center">Desenvolvedor Back-end Java | Arquiteto de Soluções | Especialista em Bancos de Dados</h3>
+<h3 align="center">Desenvolvedor Back-end Python | Arquiteto de Soluções | Especialista em Bancos de Dados</h3>
 
 ###
 
 <h3 align="left">👨‍💻 Sobre mim</h3>
 <p align="left">
-Sou um profissional de tecnologia focado em resolução de problemas complexos, especializado no ecossistema <b>Java</b> e em arquitetura de <b>Bancos de Dados</b>. Minha especialidade é transformar gargalos operacionais em plataformas corporativas robustas, escaláveis e automatizadas.<br><br>
+Profissional de tecnologia com perfil analítico, especializado no desenvolvimento Back-end em Python e automação de infraestrutura. Experiência comprovada na criação de soluções de ponta a ponta (End-to-End), integrando APIs REST (Flask), pipelines de engenharia de dados/ETL (Pandas, SQLAlchemy) e modelagem de bancos de dados relacionais (PostgreSQL, SQL Server, Firebird). Vivência em sustentação de ambientes críticos em nuvem, orquestração de scripts para rotinas operacionais e práticas de segurança da informação (LGPD, criptografia). Busco atuar como Desenvolvedor Back-End Python ou Analista de Automação/DevOps, gerando eficiência operacional e entregando sistemas escaláveis.<br><br>
 
 Atuo fortemente no desenvolvimento <b>End-to-End</b>, desde a modelagem de dados relacionais e criação de pipelines de ETL (Python/Pandas), até a construção de Back-ends estruturados com controle de sessões, transações ACID, Design Patterns e arquitetura segura (LGPD/Criptografia).<br><br>
 
